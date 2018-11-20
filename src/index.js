@@ -1,4 +1,7 @@
+// This file stores main Render call from ReactDOM
+// This file imports the App.js component and tells React where to render it
 import React from 'react';
+
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
