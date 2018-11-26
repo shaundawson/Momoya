@@ -20,6 +20,7 @@ const Contact = () => {
                         Dinner: Sun 5:30p-10:00p, Mon-Thu 5:30p-10:15p, <br/>
                         Fri-Sat: 5:30p-10:30p <br/>
                     </h2>
+                    <a class="button is-black">Contact</a>
                 </div>
             </div>
             </div>

@@ -7,32 +7,37 @@ const Footer = () => {
         <div className="Footer">
             <footer className="footer">
                 <div className="content">
-                    <div class="columns">
-                        <div class="column">
+                       <div className="columns">
+                       <div className="column has-text-white">
+                       <a className="navbar-item" href="">
+                  <img src="https://i.imgur.com/sSzLPai.png" alt="Logo" />
+                </a>
+                        <b> CHELSEA </b><br></br>
+                        185 7TH AVE NY, NY
+                        10011| 212 989 4466
+                        </div>
+                        <div className="column">
                         <a className="navbar-item has-text-white" href="https://bulma.io/documentation/overview/start/">
                         Menu
                        </a>
                         </div>
-                        <div class="column">
+                        <div className="column">
                         <a className="navbar-item has-text-white" href="https://bulma.io/documentation/overview/start/">
-                        Contact
+                        <b>Contact </b>
                        </a>
                         </div>
-                        <div class="column">
+                        <div className="column">
                         <a className="navbar-item has-text-white" href="https://bulma.io/documentation/overview/start/">
                         Gallery
                        </a>
                         </div>
-                        <div class="column">
+                        <div className="column">
                         <a className="navbar-item has-text-white" href="https://bulma.io/documentation/overview/start/">
                         Order Online
                        </a>
                         </div>
-                        <div class="column has-text-white">
-                        <div class="is-divider-vertical" data-content="OR"></div>
-                        </div>
-                        <div class="column has-text-white">
-                            UPPER WEST<br></br>
+                        <div className="column has-text-white">
+                            <b>UPPER WEST </b><br></br>
                             427 AMSTERDAM AVE NY, NY
                             10024 | 212 580 0007
                         </div>
