@@ -1,5 +1,4 @@
 # Tech Stack. 
-
-ReactJS
-Firebase
-Google Maps API
+- ReactJS
+- Firebase
+- Google Maps API
