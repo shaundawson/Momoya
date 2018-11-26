@@ -5,10 +5,10 @@ const About = () => {
   return (
     <div className="About">
       <div className="columns">
-        <div className="column is-half">
+        <div className="column is-half ">
           <h1 className="title">About Momoya </h1>
           <hr />
-          <p>
+          <p className has-bg-img>
           ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
           labore et doloremagna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
           ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -24,5 +24,5 @@ const About = () => {
   );
 };
 
-export default About;
+export default About
 
