@@ -13,7 +13,8 @@
     object-fit: cover;
   }
     .gallery {
-        margin: 50px;
+     
+      padding: 100px;
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
       grid-gap: 2.875rem;

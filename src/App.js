@@ -14,6 +14,7 @@ import Contact from './Contact';
 import Recommended from './Recommended';
 import Footer from './Footer';
 import Gallery from './Gallery';
+import Menu from './Menu';
 
 const App = () => {
   return (
@@ -24,11 +25,12 @@ const App = () => {
         <Contact />
         <Recommended />
         <Gallery />
+        <Menu />
         <Footer />
         
-        <Route path="/menu" component={Contact} />
+        <Route path="/menu" component={Menu} />
         <Route path="/contact" component={Contact} />
-        <Route path="/gallery" component={Contact} />
+        <Route path="/gallery" component={Gallery} />
 
       </div>
     </Router>
