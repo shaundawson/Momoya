@@ -10,11 +10,12 @@ const Footer = () => {
                        <div className="columns">
                        <div className="column has-text-white">
                        <a className="navbar-item" href="">
-                  <img src="https://i.imgur.com/sSzLPai.png" alt="Logo" />
+                  <img src="https://i.imgur.com/sSzLPai.png"  alt="Logo" />
                 </a>
-                        <b> CHELSEA </b><br></br>
-                        185 7TH AVE NY, NY
-                        10011| 212 989 4466
+                        <center><b> CHELSEA </b><br></br>
+                        185 7TH AVE NY, NY <br></br>
+                        10011| 212 989 4466 <br></br>
+                        </center>
                         </div>
                         <div className="column">
                         <a className="navbar-item has-text-white" href="https://bulma.io/documentation/overview/start/">

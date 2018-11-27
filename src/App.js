@@ -17,23 +17,23 @@ import Contact from './Contact';
 import Recommended from './Recommended';
 import Footer from './Footer';
 
-const App = ()  => {
+const App = () => {
   return (
     <Router>
-    <div className="App">
-    <Hero/>
-    <About/>
-    <Contact/>
-    <Recommended/>
-    <Footer/>
+      <div className="App">
+        <Hero />
+        <About />
+        <Contact />
+        <Recommended />
+        <Footer />
+        
+        <Route path="/menu" component={Contact} />
+        <Route path="/contact" component={Contact} />
+        <Route path="/gallery" component={Contact} />
 
-    <Route path="/menu" component={Contact} />
-    <Route path="/contact" component={Contact} />
-    <Route path="/gallery" component={Contact} />
-
-    </div>
+      </div>
     </Router>
- );
+  );
 }
 
 export default App;

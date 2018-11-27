@@ -33,14 +33,6 @@ const Hero = () => {
                   <a className="navbar-item has-text-white" href="">
                   Order Online
                   </a>
-                  <span className="navbar-item ">
-                    <a className="button is-primary is-inverted is outlined" href="">
-                      <span className="icon">
-                        <i className="fab fa-github"></i>
-                      </span>
-                      <span>Locations</span>
-                    </a>
-                  </span>
                 </div>
               </div>
             </div>
@@ -50,7 +42,7 @@ const Hero = () => {
         <div className="hero-body">
           <div className="container has-text-centered">
             <p className="title has-text-white">
-            Momoya Chelsea
+            MOMOYA CHELSEA
             </p>
           </div>
         </div>
@@ -59,7 +51,7 @@ const Hero = () => {
           <nav className="tabs is-boxed is-fullwidth has">
             <div className="container">
               <ul>
-                <li className="is-active"><a>Scroll Down</a></li>
+                <li className="is-active"><a>SCROLL DOWN</a></li>
               </ul>
             </div>
           </nav>
