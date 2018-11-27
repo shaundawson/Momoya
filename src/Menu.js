@@ -74,6 +74,36 @@ const Menu = () => {
                     <br></br>
                     <br></br>
                     <br></br>
+
+                    <h1 class="title is-3">HOT APPETIZER</h1>
+                    <h5 class="title is-5">EDAMAME 5</h5>
+                    <br></br>
+                    <h5 class="title is-5">NASU SHIGIYAK</h5>
+                    <p class="subtitle is-6"> Eggplant w/ sweet miso 7</p>
+                    <br></br>
+                    <h5 class="title is-5">AGEDASH</h5>
+                    <p class="subtitle is-6"> Deep fried tofu w/ bonito 7</p>
+                    <br></br>
+                    <h5 class="title is-5">MISO BLACK COD</h5>
+                    <p class="subtitle is-6"> spinach, pumpkin 16</p>
+                    <br></br>
+                    <h5 class="title is-5">SPICY CRISPY SHRIMP 13</h5>
+                    <br></br>
+                    <h5 class="title is-5">SOFT SHELL CRAB</h5>
+                    <p class="subtitle is-6"> arugula w/ MOMOYA salsa 17</p>
+                    <br></br>
+                    <h5 class="title is-5">GYOZA</h5>
+                    <p class="subtitle is-6"> pork w/ chilli soy sauce 7</p>
+                    <br></br>
+                    <h5 class="title is-5">SHUMAI</h5>
+                    <p class="subtitle is-6"> shrimp & chicken w/ ponzu sauce 8</p>
+                    <br></br>
+                    <h5 class="title is-5">CRISPY LOBSTER SHRIMP ROLL</h5>
+                    <p class="subtitle is-6"> cilantro & glass noodles 16</p>
+                    <br></br>
+                    <h5 class="title is-5">EDAMAME RICOTTA DUMPLING</h5>
+                    <br></br>
+                    <br></br>
                 </div>
 
                 <div class="column">
@@ -108,19 +138,6 @@ const Menu = () => {
                     <br></br>
                     <br></br>
 
-
-                    <h1 class="title is-3">A LA CARTE SPECIALS</h1>
-                    <h5 class="title is-5">KING SALMON 6 KANI (snow crab) 8</h5>
-                    <h5 class="title is-5">KANPACHI (amber jack) 6 MADAI (sea
-                    bream) 6</h5>
-                    <h5 class="title is-5">SHIMA AJI (striped jack) 6 BOTAN EBI
-                    (prawn from canada</h5>
-                    <h5 class="title is-5">KINMEDAI (golden big eye snapper) 7 LIVE
-                    SCALLOP 8</h5>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-
                     <h1 class="title is-3">SIGNATURE ROLL</h1>
                     <h5 class="title is-5">CRISPY RICE</h5>
                     <p class="subtitle is-6"> spicy tuna, shitake, jalepeno 16</p>
@@ -151,6 +168,48 @@ const Menu = () => {
                     <br></br>
                     <br></br>
                     <br></br>
+
+                    <h1 class="title is-3">KITCHEN ENTREE</h1>
+                    <h5 class="title is-5">TEMPURA TASTING</h5>
+                    <p class="subtitle is-6"> shrimp, scallop, squid & vegetable 19</p>
+                    <br></br>
+                    <h5 class="title is-5">TERIYAKI CHICKEN or SALMON</h5>
+                    <p class="subtitle is-6"> asparagus, carrot 18 or 20 </p>                  
+                    <br></br>
+                    <h5 class="title is-5">EEL DON</h5>
+                    <p class="subtitle is-6"> broiled eel over rice 30</p>                   
+                    <br></br>
+                    <h5 class="title is-5">CHICKEN KATSU DON</h5>
+                    <p class="subtitle is-6"> chicken cutlet, egg over rice 17</p>                   
+                    <br></br>
+                    <h5 class="title is-5">STEAMED VEGETABLES</h5>
+                    <p class="subtitle is-6"> market varieties 16</p>                   
+                    <br></br>
+                    <h5 class="title is-5">UDON or SOBA</h5>
+                    <p class="subtitle is-6"> n broth w/ tempura 16</p>                   
+                    <br></br>
+                    <h5 class="title is-5">UDON or SOBA</h5>
+                    <p class="subtitle is-6"> in broth w/ tempura 16</p>                   
+                    <br></br>
+                    <h5 class="title is-5">CHILLED SOBA</h5>
+                    <p class="subtitle is-6"> w/ tempura 16</p>                   
+                    <br></br>
+                    <h5 class="title is-5">UDON or SOBA</h5>
+                    <p class="subtitle is-6"> n broth w/ tempura 16</p>                   
+                    <br></br>
+                    <h5 class="title is-5">BROILED CHILEAN SEA BASS</h5>
+                    <p class="subtitle is-6"> spinach w/ lemon miso 28</p>                   
+                    <br></br>
+                    <h5 class="title is-5">PRIME RIB EYE STEAK</h5>
+                    <p class="subtitle is-6"> 10oz. roaster tomato & spinach 29</p>                   
+                    <br></br>
+                    <h5 class="title is-5">MOMOYA BOX chicken or salmon teriyaki</h5>
+                    <p class="subtitle is-6"> spicy tuna or california roll, tempura, shumai & salad 25</p>                   
+                    <br></br>
+
+
+
+
                 </div>
 
                 <div class="column">
@@ -172,6 +231,13 @@ const Menu = () => {
                     <p>SALMON ROE 5</p>
                     <br></br>
                     <p>SEA EEL 6</p></strong>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <img src="http://cdn.shopify.com/s/files/1/2306/8409/files/Enso_14f4e9c6-5343-41b3-8845-61344ef56c62_large.png?v=1505588560"/>
+                    <br></br>
+                    <br></br>
+                    
                     <br></br>
                     <br></br>
 
@@ -207,6 +273,23 @@ const Menu = () => {
                     <br></br>
                     <br></br>
                     <br></br>
+
+
+                    <h1 class="title is-3">A LA CARTE SPECIALS</h1>
+                    <h5 class="title is-5">KING SALMON 6 KANI (snow crab) 8</h5>
+                    <h5 class="title is-5">KANPACHI (amber jack) 6 MADAI (sea
+                    bream) 6</h5>
+                    <h5 class="title is-5">SHIMA AJI (striped jack) 6 BOTAN EBI
+                    (prawn from canada</h5>
+                    <h5 class="title is-5">KINMEDAI (golden big eye snapper) 7 LIVE
+                    SCALLOP 8</h5>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+
+
+
+
                 </div>
 
                 <div class="column">
@@ -231,6 +314,21 @@ const Menu = () => {
                     <br></br>
                     <p>TORO 10</p>
                     </strong>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
                     <br></br>
                     <br></br>
                     <br></br>
