@@ -7,15 +7,13 @@ import {
   Link,
   Switch,
   Redirect
-} from 'react-router-dom'
-
-
-import Navbar from './Navbar';
+} from 'react-router-dom';
 import Hero from './Hero';
 import About from './About';
 import Contact from './Contact';
 import Recommended from './Recommended';
 import Footer from './Footer';
+import Gallery from './Gallery';
 
 const App = () => {
   return (
@@ -25,6 +23,7 @@ const App = () => {
         <About />
         <Contact />
         <Recommended />
+        <Gallery />
         <Footer />
         
         <Route path="/menu" component={Contact} />

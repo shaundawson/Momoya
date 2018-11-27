@@ -4,7 +4,6 @@ import './Recommended.css';
 const Recommended = () => {
   return (
     <div className="recommended">
-
       <div class="content is-large">
         <hr></hr>
         <h1>Recommended</h1>
@@ -107,7 +106,7 @@ const Recommended = () => {
               </div>
             </div>
           </div>
-          </div>
+        </div>
       </div>
 
     </div>
