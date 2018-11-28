@@ -56,54 +56,6 @@ const Menu = () => {
                     <br></br>
                     <br></br>
                     <br></br>
-                     
-                    <h1 class="title is-3">COLD APPETIZER</h1>
-                    <h5 class="title is-5">GOMAAE</h5>
-                    <p class="subtitle is-6"> spinach w/ sesame 7</p>
-                    <br></br>
-                    <h5 class="title is-5">OHITASHI</h5>
-                    <p class="subtitle is-6"> spinach w/ ponzu 7</p>
-                    <br></br>
-                    <h5 class="title is-5">TAKO SU</h5>
-                    <p class="subtitle is-6"> octopus sashimi in tosazu vinaigrette 12</p>
-                    <br></br>
-                    <h5 class="title is-5">YELLOWTAIL JALAPENO 13</h5>
-                    <br></br>
-                    <h5 class="title is-5">TUNA AVOCADO</h5>
-                    <p class="subtitle is-6"> sesame ginger soy dressing 12</p>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-
-                    <h1 class="title is-3">HOT APPETIZER</h1>
-                    <h5 class="title is-5">EDAMAME 5</h5>
-                    <br></br>
-                    <h5 class="title is-5">NASU SHIGIYAK</h5>
-                    <p class="subtitle is-6"> Eggplant w/ sweet miso 7</p>
-                    <br></br>
-                    <h5 class="title is-5">AGEDASH</h5>
-                    <p class="subtitle is-6"> Deep fried tofu w/ bonito 7</p>
-                    <br></br>
-                    <h5 class="title is-5">MISO BLACK COD</h5>
-                    <p class="subtitle is-6"> spinach, pumpkin 16</p>
-                    <br></br>
-                    <h5 class="title is-5">SPICY CRISPY SHRIMP 13</h5>
-                    <br></br>
-                    <h5 class="title is-5">SOFT SHELL CRAB</h5>
-                    <p class="subtitle is-6"> arugula w/ MOMOYA salsa 17</p>
-                    <br></br>
-                    <h5 class="title is-5">GYOZA</h5>
-                    <p class="subtitle is-6"> pork w/ chilli soy sauce 7</p>
-                    <br></br>
-                    <h5 class="title is-5">SHUMAI</h5>
-                    <p class="subtitle is-6"> shrimp & chicken w/ ponzu sauce 8</p>
-                    <br></br>
-                    <h5 class="title is-5">CRISPY LOBSTER SHRIMP ROLL</h5>
-                    <p class="subtitle is-6"> cilantro & glass noodles 16</p>
-                    <br></br>
-                    <h5 class="title is-5">EDAMAME RICOTTA DUMPLING</h5>
-                    <br></br>
-                    <br></br>
                 </div>
 
                 <div class="column">
@@ -213,6 +165,34 @@ const Menu = () => {
                 </div>
 
                 <div class="column">
+
+                <h1 class="title is-3">COLD APPETIZER</h1>
+                <h5 class="title is-5">GOMAAE</h5>
+                <p class="subtitle is-6"> spinach w/ sesame 7</p>
+                <br></br>
+                <h5 class="title is-5">OHITASHI</h5>
+                <p class="subtitle is-6"> spinach w/ ponzu 7</p>
+                <br></br>
+                <h5 class="title is-5">TAKO SU</h5>
+                <p class="subtitle is-6"> octopus sashimi in tosazu vinaigrette 12</p>
+                <br></br>
+                <h5 class="title is-5">YELLOWTAIL JALAPENO 13</h5>
+                <br></br>
+                <h5 class="title is-5">TUNA AVOCADO</h5>
+                <p class="subtitle is-6"> sesame ginger soy dressing 12</p>
+                <br></br>
+                <br></br>
+                <img src="http://cdn.shopify.com/s/files/1/2306/8409/files/Enso_14f4e9c6-5343-41b3-8845-61344ef56c62_large.png?v=1505588560"/>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+
+
                     <h1 class="title is-3">A LA CARTE - SUSHI or SASHIMI</h1>
                     <strong><p>TUNA 4.5</p>
                     <br></br>
@@ -233,11 +213,6 @@ const Menu = () => {
                     <p>SEA EEL 6</p></strong>
                     <br></br>
                     <br></br>
-                    <br></br>
-                    <img src="http://cdn.shopify.com/s/files/1/2306/8409/files/Enso_14f4e9c6-5343-41b3-8845-61344ef56c62_large.png?v=1505588560"/>
-                    <br></br>
-                    <br></br>
-                    
                     <br></br>
                     <br></br>
 
@@ -286,19 +261,45 @@ const Menu = () => {
                     <br></br>
                     <br></br>
                     <br></br>
-
-
-
-
                 </div>
 
                 <div class="column">
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
+                <h1 class="title is-3">HOT APPETIZER</h1>
+                <h5 class="title is-5">EDAMAME 5</h5>
+                <br></br>
+                <h5 class="title is-5">NASU SHIGIYAK</h5>
+                <p class="subtitle is-6"> Eggplant w/ sweet miso 7</p>
+                <br></br>
+                <h5 class="title is-5">AGEDASH</h5>
+                <p class="subtitle is-6"> Deep fried tofu w/ bonito 7</p>
+                <br></br>
+                <h5 class="title is-5">MISO BLACK COD</h5>
+                <p class="subtitle is-6"> spinach, pumpkin 16</p>
+                <br></br>
+                <h5 class="title is-5">SPICY CRISPY SHRIMP 13</h5>
+                <br></br>
+                <h5 class="title is-5">SOFT SHELL CRAB</h5>
+                <p class="subtitle is-6"> arugula w/ MOMOYA salsa 17</p>
+                <br></br>
+                <h5 class="title is-5">GYOZA</h5>
+                <p class="subtitle is-6"> pork w/ chilli soy sauce 7</p>
+                <br></br>
+                <h5 class="title is-5">SHUMAI</h5>
+                <p class="subtitle is-6"> shrimp & chicken w/ ponzu sauce 8</p>
+                <br></br>
+                <h5 class="title is-5">CRISPY LOBSTER SHRIMP ROLL</h5>
+                <p class="subtitle is-6"> cilantro & glass noodles 16</p>
+                <br></br>
+                <h5 class="title is-5">EDAMAME RICOTTA DUMPLING</h5>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
                     <strong>
                     <p>SALMON TROUT 5</p>
                     <br></br>
@@ -315,16 +316,6 @@ const Menu = () => {
                     <p>TORO 10</p>
                     </strong>
 
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
-                    <br></br>
                     <br></br>
                     <br></br>
                     <br></br>
